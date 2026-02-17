@@ -1,3 +1,3 @@
 module github.com/uncinq/medicalify-example-site
 
-go 1.19
+go 1.21
