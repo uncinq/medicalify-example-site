@@ -2,7 +2,7 @@
 isIndex: false
 title: Dentaire
 image:
-  src: /images/uploads/atikah-akhtar-XJptUS8nbhs-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070979/atikah-akhtar-XJptUS8nbhs-unsplash_ccocjq.jpg
   credit: Photo de <a href="https://unsplash.com/fr/@atikahakhtar?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Atikah Akhtar</a> sur <a href="https://unsplash.com/fr/photos/fauteuil-de-massage-rouge-et-blanc-XJptUS8nbhs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 ---
 

@@ -11,7 +11,7 @@ image:
     Vechorko](https://unsplash.com/@vechorko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur
     [Unsplash](https://unsplash.com/fr/photos/E9PFbdhZmus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/dmitry-vechorko-e9pfbdhzmus-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070949/dmitry-vechorko-e9pfbdhzmus-unsplash_qskx70.jpg
 diplomas: >-
   * 2022: Vivamus tincidunt malesuada
 

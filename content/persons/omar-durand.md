@@ -7,7 +7,7 @@ persons_expertises:
   - osteopathie
 description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
 image:
-  src: /images/uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070948/ali-morshedlou-wmd64tmfc4k-unsplash_zvght1.jpg
   credit: Photo de [Ali
     Morshedlou](https://unsplash.com/@alimorshedlou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur

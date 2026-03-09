@@ -2,7 +2,7 @@
 isIndex: false
 title: Médecine générale
 image:
-  src: /images/uploads/online-marketing-hIgeoQjS_iE-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070984/online-marketing-hIgeoQjS_iE-unsplash_xs0dwl.jpg
   credit: Photo de <a href="https://unsplash.com/fr/@impulsq?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Online Marketing</a> sur <a href="https://unsplash.com/fr/photos/medico-che-tiene-uno-stetoscopio-rosso-hIgeoQjS_iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 ---
 

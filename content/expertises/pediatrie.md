@@ -2,7 +2,7 @@
 isIndex: false
 title: Pédiatrie
 image:
-  src: /images/uploads/bermix-studio-kinSYGfBSzc-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070979/bermix-studio-kinSYGfBSzc-unsplash_z7x8nm.jpg
   credit: Photo de <a href="https://unsplash.com/fr/@bermixstudio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bermix Studio</a> sur <a href="https://unsplash.com/fr/photos/un-medecin-examinant-lestomac-dun-enfant-a-laide-dun-stethoscope-kinSYGfBSzc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 ---
 

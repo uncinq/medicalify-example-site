@@ -13,6 +13,6 @@ blocks:
     heading:
       title: Odio quam ullamcorper turpis
     figure:
-      src: /images/uploads/martha-dominguez-de-gouveia-nMyM7fxpokE-unsplash.jpg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1773070980/martha-dominguez-de-gouveia-nMyM7fxpokE-unsplash_w6ubou.jpg
       credit: Photo de <a href="https://unsplash.com/fr/@mdominguezfoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Martha Dominguez de Gouveia</a> sur <a href="https://unsplash.com/fr/photos/supporto-da-banco-in-cemento-bianco-nMyM7fxpokE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 ---

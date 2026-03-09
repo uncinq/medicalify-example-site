@@ -9,7 +9,7 @@ description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin
   lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec
   quis tristique elit. Nunc tempus tempor neque a fringilla.
 image:
-  src: /images/uploads/filip-rankovic-grobgaard-9_1Y_IKP4tY-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070949/filip-rankovic-grobgaard-9_1Y_IKP4tY-unsplash_y8g2ji.jpg
   credit: Photo de <a href="https://unsplash.com/fr/@filipgrobgaard?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Filip Rankovic Grobgaard</a> sur <a href="https://unsplash.com/fr/photos/un-homme-souriant-pour-la-camera-9_1Y_IKP4tY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 contact:
   email: jane.doe@lorem.ipsum
