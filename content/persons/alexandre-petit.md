@@ -17,6 +17,13 @@ contact:
   fax: +33 (0) 1 12 34 56 78
   linkedin: https://www.linkedin.com/
   twitter: '#'
+  doctolib: https://www.medicalify.io/
+diplomas: >-
+  * 2022: Vivamus tincidunt malesuada
+
+  * 2021: Lorem eget sodales. Praesent sit amet risus augue.
+  
+  * 2020: Aliquam gravida posuere lectus ut volutpat. Quisque 
 ---
 
 Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue.

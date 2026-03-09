@@ -12,6 +12,14 @@ image:
     sur
     [Unsplash](https://unsplash.com/fr/photos/E9PFbdhZmus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   src: /images/uploads/dmitry-vechorko-e9pfbdhzmus-unsplash.jpg
+diplomas: >-
+  * 2022: Vivamus tincidunt malesuada
+
+  * 2021: Lorem eget sodales. Praesent sit amet risus augue.
+  
+  * 2020: Aliquam gravida posuere lectus ut volutpat. Quisque 
+contact:
+  doctolib: https://www.medicalify.io/
 ---
 
 Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu.

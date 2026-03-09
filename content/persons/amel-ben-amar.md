@@ -21,6 +21,13 @@ contact:
   email: contact@medicalify.io
   phone: +33 (0) 1 12 34 56 78
   linkedin: https://www.linkedin.com/
+  doctolib: https://www.medicalify.io/
+diplomas: >-
+  * 2022: Vivamus tincidunt malesuada
+
+  * 2021: Lorem eget sodales. Praesent sit amet risus augue.
+  
+  * 2020: Aliquam gravida posuere lectus ut volutpat. Quisque 
 ---
 
 Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.
